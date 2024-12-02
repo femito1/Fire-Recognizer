@@ -2,13 +2,18 @@ id,class
 7.jpg,1
 8.jpg,1
 13.jpg,0
+<<<<<<< HEAD
 28.jpg,1
+=======
+28.jpg,0
+>>>>>>> refs/remotes/origin/main
 33.jpg,0
 34.jpg,0
 35.jpg,0
 50.jpg,1
 62.jpg,0
 92.jpg,0
+<<<<<<< HEAD
 118.jpg,1
 122.jpg,0
 126.jpg,1
@@ -16,6 +21,15 @@ id,class
 156.jpg,0
 177.jpg,0
 188.jpg,0
+=======
+118.jpg,0
+122.jpg,0
+126.jpg,0
+138.jpg,1
+156.jpg,0
+177.jpg,0
+188.jpg,1
+>>>>>>> refs/remotes/origin/main
 189.jpg,0
 203.jpg,0
 207.jpg,0
@@ -36,7 +50,11 @@ id,class
 300.jpg,1
 304.jpg,0
 325.jpg,1
+<<<<<<< HEAD
 336.jpg,0
+=======
+336.jpg,1
+>>>>>>> refs/remotes/origin/main
 337.jpg,1
 344.jpg,0
 355.jpg,0
@@ -56,7 +74,11 @@ id,class
 521.jpg,0
 532.jpg,1
 539.jpg,0
+<<<<<<< HEAD
 546.jpg,0
+=======
+546.jpg,1
+>>>>>>> refs/remotes/origin/main
 551.jpg,0
 554.jpg,0
 556.jpg,0
@@ -73,6 +95,7 @@ id,class
 634.jpg,0
 660.jpg,0
 714.jpg,0
+<<<<<<< HEAD
 718.jpg,0
 730.jpg,1
 731.jpg,0
@@ -82,6 +105,17 @@ id,class
 769.jpg,0
 770.jpg,0
 785.jpg,0
+=======
+718.jpg,1
+730.jpg,1
+731.jpg,0
+742.jpg,1
+746.jpg,0
+749.jpg,0
+769.jpg,0
+770.jpg,0
+785.jpg,1
+>>>>>>> refs/remotes/origin/main
 801.jpg,0
 815.jpg,1
 832.jpg,1
@@ -173,9 +207,15 @@ id,class
 1777.jpg,0
 1780.jpg,0
 1805.jpg,0
+<<<<<<< HEAD
 1812.jpg,0
 1829.jpg,1
 1835.jpg,0
+=======
+1812.jpg,1
+1829.jpg,1
+1835.jpg,1
+>>>>>>> refs/remotes/origin/main
 1836.jpg,0
 1853.jpg,0
 1859.jpg,1
@@ -191,7 +231,11 @@ id,class
 1943.jpg,1
 1954.jpg,0
 1956.jpg,0
+<<<<<<< HEAD
 1974.jpg,1
+=======
+1974.jpg,0
+>>>>>>> refs/remotes/origin/main
 1986.jpg,1
 1988.jpg,0
 1989.jpg,1
@@ -228,7 +272,11 @@ id,class
 2385.jpg,0
 2411.jpg,1
 2415.jpg,0
+<<<<<<< HEAD
 2420.jpg,1
+=======
+2420.jpg,0
+>>>>>>> refs/remotes/origin/main
 2422.jpg,1
 2430.jpg,0
 2431.jpg,1
@@ -251,22 +299,38 @@ id,class
 2634.jpg,1
 2636.jpg,1
 2645.jpg,1
+<<<<<<< HEAD
 2648.jpg,1
+=======
+2648.jpg,0
+>>>>>>> refs/remotes/origin/main
 2650.jpg,0
 2672.jpg,1
 2673.jpg,1
 2679.jpg,0
 2703.jpg,0
+<<<<<<< HEAD
 2724.jpg,1
 2738.jpg,1
+=======
+2724.jpg,0
+2738.jpg,0
+>>>>>>> refs/remotes/origin/main
 2739.jpg,1
 2752.jpg,0
 2770.jpg,0
 2772.jpg,0
+<<<<<<< HEAD
 2773.jpg,1
 2774.jpg,0
 2801.jpg,0
 2815.jpg,1
+=======
+2773.jpg,0
+2774.jpg,0
+2801.jpg,0
+2815.jpg,0
+>>>>>>> refs/remotes/origin/main
 2817.jpg,0
 2824.jpg,1
 2831.jpg,0
@@ -274,7 +338,11 @@ id,class
 2845.jpg,0
 2847.jpg,1
 2852.jpg,0
+<<<<<<< HEAD
 2863.jpg,1
+=======
+2863.jpg,0
+>>>>>>> refs/remotes/origin/main
 2880.jpg,0
 2884.jpg,0
 2900.jpg,1
@@ -306,7 +374,11 @@ id,class
 3201.jpg,0
 3212.jpg,0
 3241.jpg,0
+<<<<<<< HEAD
 3269.jpg,1
+=======
+3269.jpg,0
+>>>>>>> refs/remotes/origin/main
 3274.jpg,0
 3280.jpg,1
 3300.jpg,0
@@ -321,14 +393,24 @@ id,class
 3392.jpg,1
 3393.jpg,0
 3394.jpg,1
+<<<<<<< HEAD
 3403.jpg,1
+=======
+3403.jpg,0
+>>>>>>> refs/remotes/origin/main
 3411.jpg,0
 3413.jpg,0
 3420.jpg,1
 3433.jpg,0
+<<<<<<< HEAD
 3456.jpg,1
 3457.jpg,0
 3462.jpg,0
+=======
+3456.jpg,0
+3457.jpg,0
+3462.jpg,1
+>>>>>>> refs/remotes/origin/main
 3475.jpg,1
 3479.jpg,0
 3483.jpg,0
@@ -340,10 +422,17 @@ id,class
 3505.jpg,1
 3508.jpg,1
 3513.jpg,1
+<<<<<<< HEAD
 3515.jpg,1
 3534.jpg,0
 3565.jpg,0
 3574.jpg,0
+=======
+3515.jpg,0
+3534.jpg,0
+3565.jpg,0
+3574.jpg,1
+>>>>>>> refs/remotes/origin/main
 3575.jpg,0
 3584.jpg,0
 3600.jpg,0
@@ -358,12 +447,20 @@ id,class
 3699.jpg,0
 3721.jpg,0
 3736.jpg,0
+<<<<<<< HEAD
 3744.jpg,1
+=======
+3744.jpg,0
+>>>>>>> refs/remotes/origin/main
 3746.jpg,1
 3755.jpg,1
 3777.jpg,0
 3785.jpg,1
+<<<<<<< HEAD
 3788.jpg,0
+=======
+3788.jpg,1
+>>>>>>> refs/remotes/origin/main
 3800.jpg,0
 3817.jpg,0
 3819.jpg,0
@@ -392,7 +489,11 @@ id,class
 4058.jpg,0
 4082.jpg,0
 4091.jpg,0
+<<<<<<< HEAD
 4102.jpg,0
+=======
+4102.jpg,1
+>>>>>>> refs/remotes/origin/main
 4108.jpg,0
 4125.jpg,0
 4128.jpg,0
@@ -404,7 +505,11 @@ id,class
 4165.jpg,1
 4181.jpg,1
 4187.jpg,0
+<<<<<<< HEAD
 4207.jpg,0
+=======
+4207.jpg,1
+>>>>>>> refs/remotes/origin/main
 4215.jpg,1
 4219.jpg,1
 4230.jpg,0
@@ -437,9 +542,15 @@ id,class
 4448.jpg,0
 4483.jpg,0
 4488.jpg,0
+<<<<<<< HEAD
 4496.jpg,0
 4511.jpg,1
 4522.jpg,1
+=======
+4496.jpg,1
+4511.jpg,1
+4522.jpg,0
+>>>>>>> refs/remotes/origin/main
 4524.jpg,0
 4536.jpg,0
 4540.jpg,0
@@ -447,18 +558,31 @@ id,class
 4546.jpg,0
 4555.jpg,1
 4560.jpg,1
+<<<<<<< HEAD
 4573.jpg,1
+=======
+4573.jpg,0
+>>>>>>> refs/remotes/origin/main
 4577.jpg,0
 4583.jpg,0
 4584.jpg,0
 4609.jpg,0
 4624.jpg,0
+<<<<<<< HEAD
 4634.jpg,0
 4639.jpg,0
 4667.jpg,0
 4671.jpg,1
 4689.jpg,0
 4726.jpg,1
+=======
+4634.jpg,1
+4639.jpg,0
+4667.jpg,0
+4671.jpg,0
+4689.jpg,0
+4726.jpg,0
+>>>>>>> refs/remotes/origin/main
 4729.jpg,0
 4737.jpg,0
 4748.jpg,1
@@ -486,7 +610,11 @@ id,class
 4964.jpg,1
 4977.jpg,0
 4990.jpg,1
+<<<<<<< HEAD
 5005.jpg,0
+=======
+5005.jpg,1
+>>>>>>> refs/remotes/origin/main
 5006.jpg,0
 5008.jpg,1
 5025.jpg,1
@@ -501,8 +629,13 @@ id,class
 5169.jpg,1
 5185.jpg,0
 5249.jpg,1
+<<<<<<< HEAD
 5279.jpg,0
 5307.jpg,1
+=======
+5279.jpg,1
+5307.jpg,0
+>>>>>>> refs/remotes/origin/main
 5309.jpg,0
 5323.jpg,0
 5331.jpg,0
@@ -525,10 +658,17 @@ id,class
 5518.jpg,0
 5527.jpg,0
 5548.jpg,0
+<<<<<<< HEAD
 5567.jpg,1
 5576.jpg,0
 5578.jpg,1
 5582.jpg,1
+=======
+5567.jpg,0
+5576.jpg,0
+5578.jpg,1
+5582.jpg,0
+>>>>>>> refs/remotes/origin/main
 5583.jpg,1
 5586.jpg,0
 5635.jpg,1
@@ -546,7 +686,11 @@ id,class
 5760.jpg,0
 5797.jpg,0
 5799.jpg,0
+<<<<<<< HEAD
 5802.jpg,1
+=======
+5802.jpg,0
+>>>>>>> refs/remotes/origin/main
 5804.jpg,0
 5808.jpg,0
 5821.jpg,0
@@ -651,7 +795,11 @@ id,class
 6833.jpg,0
 6853.jpg,0
 6856.jpg,0
+<<<<<<< HEAD
 6884.jpg,0
+=======
+6884.jpg,1
+>>>>>>> refs/remotes/origin/main
 6898.jpg,0
 6905.jpg,0
 6907.jpg,0
@@ -671,8 +819,13 @@ id,class
 6983.jpg,1
 6996.jpg,1
 7005.jpg,0
+<<<<<<< HEAD
 7010.jpg,1
 7011.jpg,1
+=======
+7010.jpg,0
+7011.jpg,0
+>>>>>>> refs/remotes/origin/main
 7022.jpg,1
 7030.jpg,1
 7044.jpg,0
@@ -686,7 +839,11 @@ id,class
 7100.jpg,0
 7102.jpg,0
 7109.jpg,0
+<<<<<<< HEAD
 7122.jpg,1
+=======
+7122.jpg,0
+>>>>>>> refs/remotes/origin/main
 7127.jpg,1
 7128.jpg,1
 7138.jpg,0
@@ -697,7 +854,11 @@ id,class
 7172.jpg,0
 7173.jpg,0
 7178.jpg,0
+<<<<<<< HEAD
 7180.jpg,1
+=======
+7180.jpg,0
+>>>>>>> refs/remotes/origin/main
 7183.jpg,0
 7192.jpg,0
 7205.jpg,1
@@ -705,8 +866,13 @@ id,class
 7215.jpg,0
 7216.jpg,0
 7237.jpg,1
+<<<<<<< HEAD
 7242.jpg,0
 7245.jpg,1
+=======
+7242.jpg,1
+7245.jpg,0
+>>>>>>> refs/remotes/origin/main
 7249.jpg,0
 7260.jpg,0
 7265.jpg,0
@@ -758,8 +924,13 @@ id,class
 7730.jpg,0
 7743.jpg,0
 7750.jpg,1
+<<<<<<< HEAD
 7752.jpg,1
 7764.jpg,1
+=======
+7752.jpg,0
+7764.jpg,0
+>>>>>>> refs/remotes/origin/main
 7770.jpg,0
 7777.jpg,0
 7779.jpg,1
@@ -770,11 +941,19 @@ id,class
 7819.jpg,1
 7834.jpg,0
 7838.jpg,0
+<<<<<<< HEAD
 7841.jpg,1
 7864.jpg,0
 7878.jpg,1
 7881.jpg,1
 7896.jpg,1
+=======
+7841.jpg,0
+7864.jpg,0
+7878.jpg,1
+7881.jpg,1
+7896.jpg,0
+>>>>>>> refs/remotes/origin/main
 7910.jpg,1
 7919.jpg,1
 7925.jpg,0
@@ -784,7 +963,11 @@ id,class
 7990.jpg,1
 7997.jpg,1
 8017.jpg,0
+<<<<<<< HEAD
 8044.jpg,1
+=======
+8044.jpg,0
+>>>>>>> refs/remotes/origin/main
 8049.jpg,1
 8053.jpg,1
 8068.jpg,0
@@ -826,7 +1009,11 @@ id,class
 8460.jpg,1
 8489.jpg,0
 8504.jpg,0
+<<<<<<< HEAD
 8507.jpg,0
+=======
+8507.jpg,1
+>>>>>>> refs/remotes/origin/main
 8515.jpg,0
 8526.jpg,1
 8529.jpg,1
@@ -836,6 +1023,7 @@ id,class
 8557.jpg,0
 8562.jpg,0
 8568.jpg,1
+<<<<<<< HEAD
 8573.jpg,0
 8574.jpg,0
 8595.jpg,0
@@ -843,6 +1031,15 @@ id,class
 8605.jpg,0
 8618.jpg,1
 8640.jpg,0
+=======
+8573.jpg,1
+8574.jpg,0
+8595.jpg,0
+8602.jpg,0
+8605.jpg,1
+8618.jpg,1
+8640.jpg,1
+>>>>>>> refs/remotes/origin/main
 8641.jpg,1
 8645.jpg,0
 8647.jpg,0
@@ -850,11 +1047,19 @@ id,class
 8659.jpg,0
 8688.jpg,1
 8689.jpg,0
+<<<<<<< HEAD
 8692.jpg,0
 8695.jpg,0
 8704.jpg,1
 8714.jpg,0
 8720.jpg,1
+=======
+8692.jpg,1
+8695.jpg,0
+8704.jpg,1
+8714.jpg,0
+8720.jpg,0
+>>>>>>> refs/remotes/origin/main
 8729.jpg,0
 8749.jpg,1
 8771.jpg,1
@@ -880,7 +1085,11 @@ id,class
 9024.jpg,0
 9032.jpg,1
 9033.jpg,1
+<<<<<<< HEAD
 9040.jpg,1
+=======
+9040.jpg,0
+>>>>>>> refs/remotes/origin/main
 9047.jpg,0
 9053.jpg,0
 9059.jpg,0
@@ -890,7 +1099,11 @@ id,class
 9086.jpg,0
 9088.jpg,0
 9093.jpg,0
+<<<<<<< HEAD
 9095.jpg,1
+=======
+9095.jpg,0
+>>>>>>> refs/remotes/origin/main
 9111.jpg,0
 9113.jpg,1
 9114.jpg,1
@@ -901,9 +1114,15 @@ id,class
 9167.jpg,0
 9173.jpg,1
 9222.jpg,0
+<<<<<<< HEAD
 9223.jpg,0
 9228.jpg,0
 9234.jpg,1
+=======
+9223.jpg,1
+9228.jpg,0
+9234.jpg,0
+>>>>>>> refs/remotes/origin/main
 9260.jpg,1
 9270.jpg,0
 9290.jpg,0
@@ -918,7 +1137,11 @@ id,class
 9361.jpg,0
 9363.jpg,0
 9373.jpg,0
+<<<<<<< HEAD
 9384.jpg,0
+=======
+9384.jpg,1
+>>>>>>> refs/remotes/origin/main
 9393.jpg,0
 9407.jpg,0
 9421.jpg,0
@@ -958,7 +1181,11 @@ id,class
 9805.jpg,0
 9807.jpg,0
 9816.jpg,1
+<<<<<<< HEAD
 9817.jpg,0
+=======
+9817.jpg,1
+>>>>>>> refs/remotes/origin/main
 9823.jpg,1
 9824.jpg,0
 9826.jpg,0
@@ -982,7 +1209,11 @@ id,class
 10022.jpg,0
 10037.jpg,0
 10046.jpg,1
+<<<<<<< HEAD
 10054.jpg,0
+=======
+10054.jpg,1
+>>>>>>> refs/remotes/origin/main
 10067.jpg,0
 10071.jpg,0
 10121.jpg,0
@@ -1018,12 +1249,20 @@ id,class
 10415.jpg,1
 10445.jpg,0
 10462.jpg,0
+<<<<<<< HEAD
 10467.jpg,1
+=======
+10467.jpg,0
+>>>>>>> refs/remotes/origin/main
 10488.jpg,1
 10512.jpg,1
 10513.jpg,0
 10553.jpg,0
+<<<<<<< HEAD
 10556.jpg,1
+=======
+10556.jpg,0
+>>>>>>> refs/remotes/origin/main
 10565.jpg,1
 10566.jpg,1
 10569.jpg,0
@@ -1038,7 +1277,11 @@ id,class
 10629.jpg,1
 10633.jpg,0
 10635.jpg,0
+<<<<<<< HEAD
 10657.jpg,1
+=======
+10657.jpg,0
+>>>>>>> refs/remotes/origin/main
 10675.jpg,1
 10684.jpg,0
 10695.jpg,0
@@ -1052,7 +1295,11 @@ id,class
 10767.jpg,0
 10769.jpg,0
 10780.jpg,0
+<<<<<<< HEAD
 10789.jpg,1
+=======
+10789.jpg,0
+>>>>>>> refs/remotes/origin/main
 10790.jpg,0
 10791.jpg,0
 10810.jpg,0
@@ -1060,8 +1307,13 @@ id,class
 10845.jpg,1
 10848.jpg,0
 10851.jpg,0
+<<<<<<< HEAD
 10852.jpg,1
 10860.jpg,0
+=======
+10852.jpg,0
+10860.jpg,1
+>>>>>>> refs/remotes/origin/main
 10863.jpg,1
 10874.jpg,1
 10876.jpg,0
@@ -1087,7 +1339,11 @@ id,class
 11099.jpg,0
 11101.jpg,1
 11112.jpg,0
+<<<<<<< HEAD
 11115.jpg,1
+=======
+11115.jpg,0
+>>>>>>> refs/remotes/origin/main
 11123.jpg,0
 11132.jpg,0
 11134.jpg,0
@@ -1101,14 +1357,22 @@ id,class
 11219.jpg,0
 11240.jpg,0
 11242.jpg,0
+<<<<<<< HEAD
 11252.jpg,1
+=======
+11252.jpg,0
+>>>>>>> refs/remotes/origin/main
 11253.jpg,0
 11261.jpg,0
 11272.jpg,0
 11295.jpg,0
 11307.jpg,0
 11321.jpg,0
+<<<<<<< HEAD
 11356.jpg,1
+=======
+11356.jpg,0
+>>>>>>> refs/remotes/origin/main
 11363.jpg,0
 11364.jpg,1
 11368.jpg,1
@@ -1119,7 +1383,11 @@ id,class
 11399.jpg,1
 11411.jpg,0
 11430.jpg,0
+<<<<<<< HEAD
 11436.jpg,1
+=======
+11436.jpg,0
+>>>>>>> refs/remotes/origin/main
 11459.jpg,0
 11481.jpg,1
 11489.jpg,0
@@ -1140,7 +1408,11 @@ id,class
 11586.jpg,0
 11589.jpg,0
 11606.jpg,0
+<<<<<<< HEAD
 11612.jpg,1
+=======
+11612.jpg,0
+>>>>>>> refs/remotes/origin/main
 11614.jpg,0
 11623.jpg,0
 11635.jpg,0
@@ -1152,7 +1424,11 @@ id,class
 11733.jpg,0
 11761.jpg,0
 11774.jpg,0
+<<<<<<< HEAD
 11803.jpg,1
+=======
+11803.jpg,0
+>>>>>>> refs/remotes/origin/main
 11813.jpg,0
 11826.jpg,0
 11834.jpg,0
@@ -1162,7 +1438,11 @@ id,class
 11896.jpg,1
 11898.jpg,1
 11900.jpg,0
+<<<<<<< HEAD
 11909.jpg,1
+=======
+11909.jpg,0
+>>>>>>> refs/remotes/origin/main
 11914.jpg,0
 11915.jpg,1
 11916.jpg,1
@@ -1170,14 +1450,22 @@ id,class
 11926.jpg,0
 11929.jpg,1
 11933.jpg,1
+<<<<<<< HEAD
 11937.jpg,1
+=======
+11937.jpg,0
+>>>>>>> refs/remotes/origin/main
 11951.jpg,1
 11967.jpg,0
 12002.jpg,1
 12037.jpg,1
 12045.jpg,1
 12078.jpg,1
+<<<<<<< HEAD
 12083.jpg,0
+=======
+12083.jpg,1
+>>>>>>> refs/remotes/origin/main
 12109.jpg,0
 12111.jpg,0
 12115.jpg,0
@@ -1210,12 +1498,21 @@ id,class
 12346.jpg,1
 12355.jpg,0
 12380.jpg,1
+<<<<<<< HEAD
 12382.jpg,0
 12398.jpg,1
 12433.jpg,0
 12439.jpg,0
 12442.jpg,0
 12462.jpg,1
+=======
+12382.jpg,1
+12398.jpg,1
+12433.jpg,0
+12439.jpg,1
+12442.jpg,1
+12462.jpg,0
+>>>>>>> refs/remotes/origin/main
 12465.jpg,0
 12480.jpg,0
 12492.jpg,1
@@ -1226,13 +1523,21 @@ id,class
 12553.jpg,1
 12566.jpg,0
 12576.jpg,0
+<<<<<<< HEAD
 12593.jpg,1
+=======
+12593.jpg,0
+>>>>>>> refs/remotes/origin/main
 12610.jpg,0
 12617.jpg,1
 12640.jpg,0
 12659.jpg,0
 12666.jpg,0
+<<<<<<< HEAD
 12667.jpg,1
+=======
+12667.jpg,0
+>>>>>>> refs/remotes/origin/main
 12668.jpg,0
 12677.jpg,0
 12688.jpg,1
@@ -1244,7 +1549,11 @@ id,class
 12718.jpg,0
 12719.jpg,0
 12720.jpg,0
+<<<<<<< HEAD
 12723.jpg,1
+=======
+12723.jpg,0
+>>>>>>> refs/remotes/origin/main
 12730.jpg,1
 12733.jpg,0
 12734.jpg,0
@@ -1260,9 +1569,15 @@ id,class
 12868.jpg,0
 12870.jpg,0
 12874.jpg,1
+<<<<<<< HEAD
 12877.jpg,1
 12882.jpg,0
 12893.jpg,0
+=======
+12877.jpg,0
+12882.jpg,1
+12893.jpg,1
+>>>>>>> refs/remotes/origin/main
 12894.jpg,0
 12911.jpg,0
 12931.jpg,0
@@ -1270,7 +1585,11 @@ id,class
 12946.jpg,0
 12950.jpg,0
 12957.jpg,0
+<<<<<<< HEAD
 12972.jpg,1
+=======
+12972.jpg,0
+>>>>>>> refs/remotes/origin/main
 12973.jpg,0
 12977.jpg,0
 12990.jpg,0
@@ -1306,7 +1625,11 @@ id,class
 13246.jpg,0
 13253.jpg,1
 13269.jpg,1
+<<<<<<< HEAD
 13271.jpg,1
+=======
+13271.jpg,0
+>>>>>>> refs/remotes/origin/main
 13277.jpg,0
 13283.jpg,0
 13284.jpg,0
@@ -1335,13 +1658,21 @@ id,class
 13576.jpg,1
 13577.jpg,0
 13583.jpg,0
+<<<<<<< HEAD
 13594.jpg,1
+=======
+13594.jpg,0
+>>>>>>> refs/remotes/origin/main
 13605.jpg,0
 13611.jpg,0
 13612.jpg,0
 13633.jpg,0
 13645.jpg,0
+<<<<<<< HEAD
 13659.jpg,1
+=======
+13659.jpg,0
+>>>>>>> refs/remotes/origin/main
 13687.jpg,1
 13697.jpg,1
 13702.jpg,1
@@ -1352,6 +1683,7 @@ id,class
 13753.jpg,1
 13755.jpg,0
 13770.jpg,0
+<<<<<<< HEAD
 13786.jpg,0
 13797.jpg,0
 13805.jpg,1
@@ -1363,6 +1695,19 @@ id,class
 13859.jpg,1
 13873.jpg,0
 13881.jpg,1
+=======
+13786.jpg,1
+13797.jpg,0
+13805.jpg,1
+13806.jpg,0
+13807.jpg,0
+13808.jpg,0
+13821.jpg,0
+13835.jpg,0
+13859.jpg,0
+13873.jpg,0
+13881.jpg,0
+>>>>>>> refs/remotes/origin/main
 13886.jpg,1
 13890.jpg,0
 13898.jpg,0
@@ -1374,7 +1719,11 @@ id,class
 13958.jpg,1
 13966.jpg,0
 13968.jpg,0
+<<<<<<< HEAD
 13969.jpg,0
+=======
+13969.jpg,1
+>>>>>>> refs/remotes/origin/main
 13971.jpg,0
 13974.jpg,1
 13977.jpg,0
@@ -1418,15 +1767,24 @@ id,class
 14315.jpg,0
 14327.jpg,1
 14328.jpg,1
+<<<<<<< HEAD
 14334.jpg,0
+=======
+14334.jpg,1
+>>>>>>> refs/remotes/origin/main
 14335.jpg,0
 14350.jpg,1
 14362.jpg,0
 14366.jpg,0
 14383.jpg,0
 14390.jpg,1
+<<<<<<< HEAD
 14396.jpg,1
 14413.jpg,1
+=======
+14396.jpg,0
+14413.jpg,0
+>>>>>>> refs/remotes/origin/main
 14415.jpg,0
 14421.jpg,0
 14423.jpg,1
@@ -1443,7 +1801,11 @@ id,class
 14512.jpg,0
 14519.jpg,0
 14531.jpg,0
+<<<<<<< HEAD
 14533.jpg,1
+=======
+14533.jpg,0
+>>>>>>> refs/remotes/origin/main
 14545.jpg,1
 14548.jpg,0
 14575.jpg,1
@@ -1487,7 +1849,11 @@ id,class
 14887.jpg,0
 14895.jpg,0
 14912.jpg,0
+<<<<<<< HEAD
 14919.jpg,1
+=======
+14919.jpg,0
+>>>>>>> refs/remotes/origin/main
 14931.jpg,0
 14934.jpg,0
 14935.jpg,1
@@ -1510,11 +1876,19 @@ id,class
 15091.jpg,0
 15111.jpg,0
 15114.jpg,1
+<<<<<<< HEAD
 15144.jpg,1
 15145.jpg,1
 15150.jpg,0
 15158.jpg,0
 15177.jpg,0
+=======
+15144.jpg,0
+15145.jpg,1
+15150.jpg,0
+15158.jpg,0
+15177.jpg,1
+>>>>>>> refs/remotes/origin/main
 15186.jpg,1
 15195.jpg,1
 15205.jpg,1
@@ -1529,7 +1903,11 @@ id,class
 15269.jpg,1
 15274.jpg,0
 15280.jpg,0
+<<<<<<< HEAD
 15282.jpg,0
+=======
+15282.jpg,1
+>>>>>>> refs/remotes/origin/main
 15303.jpg,0
 15312.jpg,0
 15313.jpg,1
@@ -1540,7 +1918,11 @@ id,class
 15366.jpg,0
 15367.jpg,1
 15370.jpg,0
+<<<<<<< HEAD
 15395.jpg,1
+=======
+15395.jpg,0
+>>>>>>> refs/remotes/origin/main
 15405.jpg,0
 15410.jpg,0
 15416.jpg,0
@@ -1554,8 +1936,13 @@ id,class
 15521.jpg,0
 15523.jpg,1
 15537.jpg,0
+<<<<<<< HEAD
 15539.jpg,1
 15558.jpg,0
+=======
+15539.jpg,0
+15558.jpg,1
+>>>>>>> refs/remotes/origin/main
 15567.jpg,1
 15571.jpg,1
 15573.jpg,0
